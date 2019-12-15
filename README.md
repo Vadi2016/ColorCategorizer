@@ -8,6 +8,8 @@ Build and start project:
 cd ColorCategorizer/build
 cmake ../
 make
-./ColorCategorizer
+./ColorCategorizer ../splash.pgm
 ```
+
+As a result, you will receive the file 'histogram.txt'.
 
