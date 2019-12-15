@@ -5,9 +5,9 @@ Written in procedure style for practice.
 
 Build and start project:
 ``` 
-    cd ColorCategorizer/build
-    cmake ../
-    make
-    ./ColorCategorizer
+cd ColorCategorizer/build
+cmake ../
+make
+./ColorCategorizer
 ```
 
