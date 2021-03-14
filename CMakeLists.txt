@@ -1,6 +1,8 @@
 CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
-
+	 
 PROJECT(ColorCategorizer)
+
+set(CMAKE_CXX_FLAGS "-std=c++14")
 
 file(GLOB sources "src/*.cpp")
 
