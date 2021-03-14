@@ -5,8 +5,7 @@ Written in procedure style for practice.
 
 Build and start project:
 ``` 
-mkdir build
-cd ./build
+cd ColorCategorizer/build
 cmake ../
 make
 ./ColorCategorizer ../splash.pgm
